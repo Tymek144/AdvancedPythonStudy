@@ -1,5 +1,3 @@
-from asyncio.windows_events import NULL
-
 lista = [8, 3, 5, 6]
 
 liczba = int(input("Podaj liczbę "))
