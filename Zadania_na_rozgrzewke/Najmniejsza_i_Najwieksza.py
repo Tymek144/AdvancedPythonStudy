@@ -6,9 +6,9 @@ min = lista[0]
 for i in lista:
     if i > max:
         max = i
-print(max)
+print(f"Największa: {max}")
 
 for i in lista:
     if i < min:
         min = i
-print(min)
+print(f"Najmniejsza: {min}")
