@@ -1,4 +1,4 @@
-h = 5
+h = 3
 y = 2*h - 1
 while y > 0:
     while y >= h:
@@ -11,6 +11,13 @@ while y > 0:
             x += 1
         print("")
         y -= 1
-    print("odwracamy")
-    y -= 1
-print("koniec")
+    while y <= h and y >0:
+        x = 1
+        while x <= h:
+            if x <= y:
+                print("#", end="")
+            else:
+                print(".", end="")
+            x += 1
+        print("")
+        y -= 1
