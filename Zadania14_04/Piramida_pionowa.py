@@ -12,8 +12,6 @@ else:
             else:
                 print(" ", end="")
             x += 1
-        else:
-            print("\n")
+        print("")
         y -= 1
-    else:
-        print("Zakończono program")
+    print("Zakończono program")
