@@ -1,8 +1,12 @@
-h= input("Podaj wysokość: ")
-if not h.isdigit():
-    print("Dla wprowadzonej wartości niemożliwe jest wygenerowanie piramidy.")
-else:
-    h = int(h)
+while True:
+    try:
+        h = int(input("Podaj wysokość: "))
+    except ValueError:
+        print("Wysokośc musi być liczbą całkowitą")
+        continue
+    if h <= 0:
+        print("Wysokość musi być dodatnia")
+        continue
     y = h-1
     while y >= 0:
         x = 1
@@ -15,3 +19,4 @@ else:
         print("")
         y -= 1
     print("Zakończono program")
+    break
