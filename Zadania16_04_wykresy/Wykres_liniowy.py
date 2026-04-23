@@ -10,6 +10,7 @@ last_x = float(input("Podaj koniec zakresu"))
 if_grid = input("Czy ma być wyświetlona siatka? True or False").lower() == "true"
 
 x = np.arange(first_x, last_x + 1)
+# x.np(linspace(first_x, last_x, 100)
 y = a*x+b
 pylab.plot(x, y)
 pylab.title(title)
