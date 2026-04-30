@@ -1,1 +1,0 @@
-from tkinter import * # biblioteka pozwalająca utworzyć GUI

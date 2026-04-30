@@ -33,5 +33,5 @@ def Zadanie6 ():
     df = pd.read_csv('movies.csv', sep=';', encoding="ISO-8859-1")
     df['Popularity'] = pd.to_numeric(df['Popularity'], errors='coerce')
     comedy = df[df['Subject'] == 'Comedy']
-    suma_komedi = comedy['Popularity'].sum()
-    print(suma_komedi)
+    suma_komedii = comedy['Popularity'].sum()
+    print(suma_komedii)
