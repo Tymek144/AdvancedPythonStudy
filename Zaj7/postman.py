@@ -33,7 +33,7 @@ print(df.head()) # funkcja head wywołana na obiekcie df pozwoli nam wyświetli�
 
 
 mpl.plot(
-    df, # przekazujemy obiekt z danymi
+    df, # przekazuje my obiekt z danymi
     type="candle", # określamy typ wykresu
     title="Candle chart", # nadajemy tytuł naszego wykresu
     style="yahoo", # wersja kolorystyczna naszego wykresu - inne to np. binance, blueskies, brasil, charles, checkers, classic, default, mike, nightclouds, sas, starsandstripes

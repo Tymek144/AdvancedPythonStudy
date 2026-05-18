@@ -3,6 +3,7 @@ import json
 import pandas as pd
 import mplfinance as mpl
 from tkinter import *
+from tkinter import messagebox
 
 def draw_candle_chart():
     symbol = symbolEntry.get()
