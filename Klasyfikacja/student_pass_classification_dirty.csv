@@ -1,0 +1,151 @@
+student_id,age,gender,city,program,study_mode,learning_platform,attendance_percent,weekly_study_hours,assignment_score,quiz_score,previous_grade,forum_posts,project_submitted,passed
+STU0001,23,other,Wroclaw,Informatics,part-time,Google Classroom,48,16.7,100,91.0,4.4,10,yes,yes
+STU0002,24,female,Krakow,Management,part-time,Teams,43,4.6,48.9,9.3,4.6,4,no,no
+STU0003,27,female,Gdansk,Management,part-time,Moodle,94,6.7,72.8,51.8,4.5,9,yes,yes
+STU0004,23,other,Lodz,Finance,full-time,Moodle,57,4.9,74.0,58.4,3.8,10,no,yes
+STU0005,26,male,Warsaw,Management,part-time,Teams,50,11.0,71.9,66.1,2.1,7,yes,yes
+STU0006,20,female,Gdansk,Management,part-time,Teams,,4.8,57.2,48.7,4.4,8,yes,yes
+STU0007,27,male,Lodz,Finance,full-time,Teams,67,8.0,100,52.7,4.1,8,no,yes
+STU0008,28,female,Wroclaw,Management,part-time,Google Classroom,94,2.5,63.4,40.3,2.5,3,no,yes
+STU0009,25,other,Wroclaw, informatics ,part-time,Google Classroom,69,3.5,60.9,52.6,3.2,0,yes,yes
+STU0010,24,other,Warsaw,Data Analytics,full-time,Teams,86,2.2,82.2,65.7,2.8,9,yes,yes
+STU0011,24,female,Warsaw,Economics,full-time,Teams,77,15.4,79.8,100,4.1,16,yes,yes
+STU0012,26,female,Krakow,Data Analytics,full-time,None,94,3.4,63.2,66.3,2.3,0,no,yes
+STU0013,22,other,Lodz,Management,full-time,Teams,53,3.1,29.8,42.7,2.3,14,yes,yes
+STU0014,28,other,Warsaw,Economics,full-time,Google Classroom,84,13.1,80.0,74.5,4.7,8,yes,yes
+STU0015,29,other,Poznan,Informatics,full-time,Teams,40,,68.8,36.3,2.8,8,no,no
+STU0016,22,male,Lodz,Data Analytics,part-time,None,100,15.0,100,100,2.5,14,no,yes
+STU0017,27,female,Wroclaw,Management,part-time,Google Classroom,82,1.0,42.5,55.4,4.8,2,yes,yes
+STU0018,26,female,Lodz,Finance,full-time,None,97,8.2,74.4,58.5,2.4,17,yes,yes
+STU0019,31,male,Gdansk,Management,full-time,Google Classroom,96,17.3,100,97.7,4.9,8,yes,yes
+STU0020,29,other,Poznan,Economics,full-time,None,90,6.2,93.1,37.2,3.2,10,yes,yes
+STU0021,26,other,Poznan,Economics,full-time,None,52,14.6,90.3,79.5,3.7,7,yes,yes
+STU0022,28,other,Warsaw,DATA ANALYTICS,full-time,None,99,18.0,100,100,4.5,12,no,yes
+STU0023,25,male,Krakow,Economics,part-time,Moodle,49,17.9,81.9,89.0,4.2,21,yes,yes
+STU0024,29,other,Krakow,Management,part-time,None,40,2.8,,22.8,5.0,6,yes,yes
+STU0025,28,female,Wroclaw,Informatics,part-time,Teams,48,9.2,64.5,56.4,3.5,4,yes,yes
+STU0026,19,male,Gdansk,Informatics,part-time,None,77,2.7,56.7,35.8,2.7,3,yes,yes
+STU0027,29,male,Wroclaw,Management,part-time,Moodle,81,6.7,58.7,58.7,3.9,4,yes,yes
+STU0028,24,female,Lodz,Informatics,part-time,Teams,97,13.1,84.2,69.2,2.4,13,yes,yes
+STU0029,27,female,Krakow,Management,part-time,Teams,47,0.8,32.6,13.5,2.7,6,yes,no
+STU0030,26,female,Lodz,Management,part-time,Google Classroom,76,17.2,92.0,88.5,3.5,14,yes,yes
+STU0031,25,female,Krakow,Data Analytics,part-time,None,67,14.5,100,78.3,4.2,15,yes,yes
+STU0032,21,other,Wroclaw,Informatics,full-time,None,64,11.9,82.4,71.4,2.2,22,yes,yes
+STU0033,22,male,Lodz,Economics,part-time,None,77,1.4,39.9,63.9,3.6,0,yes,yes
+STU0034,24,other,Warsaw,Finance,part-time,Teams,67,7.3,58.8,82.5,3.8,6,yes,yes
+STU0035,22,female,Wroclaw,Economics,full-time,None,57,5.4,60.9,63.6,2.6,9,yes,yes
+STU0036,25,other,Wroclaw,Informatics,part-time,None,83,14.2,80.2,100,2.9,4,no,yes
+STU0037,29,female,Krakow,Economics,part-time,Moodle,65,4.8,71.6,54.0,3.9,13,yes,yes
+STU0038,20,male,Lodz,Economics,full-time,None,62,15.0,82.0,,3.7,15,no,yes
+STU0039,24,female,Krakow,Management,full-time,Teams,53,4.7,47.7,57.6,3.7,7,yes,yes
+STU0040,25,female,Warsaw,Finance,part-time,Teams,61,7.0,43.6,77.1,4.3,8,yes,yes
+STU0041,28,other,Gdansk,Management,part-time,Google Classroom,42,9.7,80.0,69.1,2.5,8,yes,yes
+STU0042,27,male,Poznan,Informatics,full-time,None,93,6.2,58.6,73.5,2.5,5,yes,yes
+STU0043,25,other,Wroclaw,Data Analytics,full-time,Teams,73,9.5,94.4,73.9,2.8,4,yes,yes
+STU0044,19,other,Wroclaw,Data Analytics,full-time,Teams,62,0.2,33.9,43.5,3.4,1,yes,yes
+STU0045,23,female,Wroclaw,Data Analytics,Full-time,Google Classroom,59,5.5,52.7,51.8,3.5,1,yes,yes
+STU0046,25,male,Krakow,Data Analytics,part-time,None,81,14.9,95.4,100,5.0,7,yes,yes
+STU0047,23,male,Wroclaw,Economics,part-time,Teams,86,6.2,70.7,47.4,2.9,18,no,yes
+STU0048,26,female,Poznan,Finance,full-time,Moodle,72,16.3,100,96.8,2.8,15,yes,yes
+STU0049,31,male,Lodz,Economics,part-time,Moodle,83,5.6,77.3,43.6,4.0,1,no,yes
+STU0050,29,male,Warsaw,Management,part-time,None,74,0.5,32.0,43.5,2.6,2,yes,yes
+STU0051,23,male,Wroclaw,Data Analytics,full-time,Google Classroom,50,1.5,61.1,40.6,5.0,1,yes,yes
+STU0052,25,female,Lodz,Data Analytics,full-time,Google Classroom,88,12.2,80.5,91.3,,12,no,yes
+STU0053,29,female,Wroclaw,Informatics,full-time,None,43,3.5,29.7,30.0,4.0,8,no,no
+STU0054,31,female,Krakow,Economics,part-time,Google Classroom,44,5.7,60.2,62.1,2.6,2,no,yes
+STU0055,21,female,Warsaw,Economics,full-time,Moodle,71,0.4,35.1,36.4,4.7,9,yes,no
+STU0056,23,other,Wroclaw,Management,full-time,None,59,12.1,82.7,62.6,3.4,11,yes,yes
+STU0057,24,male,Warsaw,Management,part-time,Teams,63,6.3,64.9,55.4,3.0,5,yes,yes
+STU0058,21,other,Gdansk,Data Analytics,part-time,Google Classroom,79,4.7,52.7,43.3,4.5,1,no,no
+STU0059,25,female,Lodz,Data Analytics,part time,Google Classroom,35,12.1,74.0,68.4,3.7,13,no,yes
+STU0060,26,male,Poznan,Economics,part-time,Teams,49,10.2,62.9,77.2,4.1,6,yes,yes
+STU0061,24,male,Wroclaw,Informatics,full-time,Teams,35,13.2,60.7,67.8,3.3,11,yes,yes
+STU0062,24,female,Poznan,Economics,full-time,Google Classroom,59,5.4,51.4,65.3,4.7,9,yes,yes
+STU0063,19,other,Poznan,Management,full-time,Teams,56,5.1,76.4,33.2,2.7,10,yes,yes
+STU0064,31,male,Warsaw,Finance,full-time,None,47,14.0,75.9,62.2,3.0,8,yes,yes
+STU0065,28,female,Wroclaw,Finance,part-time,None,89,6.3,69.4,61.0,4.0,4,yes,yes
+STU0066,23,other,Gdansk,Data Analytics,part-time,Google Classroom,54,0.1,34.3,16.6,2.3,6,yes,yes
+STU0067,26,other,,Management,full-time,Google Classroom,69,17.1,100,95.3,3.8,6,no,yes
+STU0068,30,male,Warsaw,Informatics,part-time,None,86,7.2,77.8,50.3,3.5,6,yes,yes
+STU0069,24,female,Lodz,Finance,part-time,Teams,36,13.2,60.9,80.0,2.5,12,yes,yes
+STU0070,25,male,Lodz,Informatics,full-time,None,40,12.1,87.5,66.2,4.3,8,no,yes
+STU0071,22,female,Krakow,Management,part-time,Google Classroom,52,8.9,60.1,75.1,2.7,2,no,yes
+STU0072,23,female,Poznan,Management,full-time,None,65,7.8,76.8,47.3,2.6,12,yes,yes
+STU0073,28,Female,Wroclaw,Finance,full-time,Teams,62,3.8,58.5,44.7,4.0,4,yes,yes
+STU0074,31,female,Krakow,Informatics,part-time,Moodle,72,13.2,65.7,70.8,3.2,8,yes,yes
+STU0075,20,other,Warsaw,Economics,full-time,Google Classroom,39,14.4,69.2,77.7,3.2,8,yes,yes
+STU0076,23,other,Poznan,Informatics,part-time,Moodle,40,8.8,66.6,35.0,3.8,5,yes,yes
+STU0077,31,other,Wroclaw,Economics,part-time,Moodle,66,12.2,94.1,60.8,3.6,11,yes,yes
+STU0078,27,female,Poznan,Management,full-time,Moodle,50,10.9,67.9,43.1,4.7,9,yes,yes
+STU0079,20,other,Gdansk,Management,part-time,Moodle,68,16.3,89.9,89.9,2.4,12,yes,yes
+STU0080,23,male,Krakow,Finance,part-time,,74,13.8,100,67.3,4.5,18,yes,yes
+STU0081,26,male,Gdansk,Finance,part-time,Teams,95,10.5,83.7,59.0,2.7,6,yes,yes
+STU0082,19,other,Krakow,Data Analytics,full-time,Google Classroom,92,13.5,92.8,92.6,2.8,7,yes,yes
+STU0083,26,other,Poznan,Management,part-time,Teams,85,1.3,61.2,43.5,3.7,2,yes,yes
+STU0084,30,male,Poznan,Informatics,full-time,Moodle,100,15.5,100,98.8,4.1,7,yes,yes
+STU0085,20,other,Gdansk,Informatics,part-time,None,89,3.2,62.3,83.1,2.3,3,yes,yes
+STU0086,21,other,Warsaw,Economics,part-time,Teams,72,12.9,90.8,54.8,3.5,12,yes,yes
+STU0087,30,female,poznan,Finance,full-time,Moodle,69,8.9,38.6,40.1,3.5,4,no,no
+STU0088,21,other,Krakow,Finance,part-time,Moodle,55,14.0,90.2,84.0,2.5,14,yes,yes
+STU0089,25,other,Poznan,Informatics,full-time,Teams,60,13.9,77.9,84.1,2.3,16,yes,yes
+STU0090,24,female,Lodz,Management,part-time,None,53,11.5,89.4,79.7,4.5,10,yes,yes
+STU0091,19,male,Lodz,Informatics,part-time,Moodle,67,17.0,91.0,87.4,3.7,12,no,yes
+STU0092,22,female,Krakow,Finance,part-time,Teams,82,3.4,62.5,27.1,4.5,4,yes,yes
+STU0093,22,female,Lodz,Management,full-time,None,60,3.7,55.1,15.5,2.6,6,yes,yes
+STU0094,29,female,Wroclaw,Economics,full-time,None,36,17.9,68.6,99.9,4.2,10,,yes
+STU0095,26,male,Poznan,Economics,full-time,Google Classroom,96,10.1,76.4,85.6,2.6,12,no,yes
+STU0096,27,male,Lodz,Informatics,part-time,Google Classroom,77,2.3,49.0,32.6,2.5,13,no,yes
+STU0097,20,female,Warsaw,Economics,full-time,Google Classroom,78,9.8,75.0,64.5,2.7,11,no,no
+STU0098,23,other,Wroclaw,Informatics,part-time,Teams,45,15.8,90.3,88.4,4.9,13,yes,yes
+STU0099,28,male,Poznan,Economics,full-time,Moodle,52,8.3,56.3,41.7,4.9,9,yes,yes
+STU0100,24,male, WROCLAW ,Management,full-time,Moodle,79,8.1,76.2,61.8,4.0,0,yes,yes
+STU0101,29,other,Gdansk,Management,full-time,Google Classroom,62,12.0,82.8,90.5,3.5,9,yes,yes
+STU0102,23,male,Poznan,Informatics,part-time,Teams,92,14.3,94.3,79.9,3.3,7,yes,yes
+STU0103,24,other,Gdansk,Management,full-time,Teams,66,4.6,43.7,40.2,4.2,8,no,no
+STU0104,21,other,Lodz,Informatics,full-time,Teams,67,15.1,91.6,75.9,5.0,12,yes,yes
+STU0105,23,female,Wroclaw,Economics,part-time,Google Classroom,100,0.2,58.9,56.6,4.4,4,Yes,yes
+STU0106,23,other,Gdansk,Informatics,full-time,Teams,60,11.7,72.8,64.7,3.4,8,yes,yes
+STU0107,21,female,Krakow,Economics,full-time,Teams,56,17.6,100,84.3,4.7,15,yes,yes
+STU0108,19,other,Warsaw,Economics,full-time,None,56,2.2,31.3,32.5,2.1,8,no,yes
+STU0109,29,other,Poznan,Management,full-time,Google Classroom,43,4.9,50.1,38.3,2.5,0,yes,yes
+STU0110,29,other,Wroclaw,Finance,full-time,None,47,12.1,62.1,79.6,3.7,12,yes,yes
+STU0111,24,other,Wroclaw,Economics,full-time,Moodle,61,17.5,97.8,99.4,2.6,16,no,yes
+STU0112,25,other,Lodz,Economics,full-time,Teams,81,10.5,74.9,77.0,4.2,14,yes,
+STU0113,23,male,Wroclaw,Finance,full-time,Moodle,58,16.7,76.4,70.3,4.1,12,yes,yes
+STU0114,31,female,Krakow,Finance,full-time,Teams,58,0.8,32.8,56.2,2.6,7,yes,yes
+STU0115,31,female,Wroclaw,Economics,part-time,Moodle,47,8.5,71.8,37.8,2.9,4,yes,yes
+STU0116,27,female,Poznan,Economics,part-time,None,40,14.2,77.1,100,3.5,12,yes,yes
+STU0117,25,female,Warsaw,Data Analytics,full-time,None,48,10.2,65.0,56.7,4.9,12,yes,yes
+STU0118,26,female,Krakow,Management,part-time,None,90,1.3,52.0,51.9,4.0,1,yes,yes
+STU0119,21,male,Wroclaw,Economics,part-time,google classroom ,85,1.1,54.4,52.0,2.7,9,yes,yes
+STU0120,31,female,Poznan,Economics,full-time,Google Classroom,61,1.6,46.7,42.2,2.4,10,yes,yes
+STU0121,19,other,Warsaw,Economics,full-time,Moodle,51,9.5,79.6,55.0,2.8,13,no,yes
+STU0122,23,other,Gdansk,Informatics,full-time,Teams,87,12.5,76.7,91.5,4.9,17,no,yes
+STU0123,19,male,Poznan,Data Analytics,full-time,Google Classroom,79,6.8,76.6,75.5,3.3,9,no,yes
+STU0124,22,other,Krakow,Finance,part-time,Moodle,68,17.7,100,60.5,4.5,19,yes,yes
+STU0125,20,female,Warsaw,Finance,part-time,None,80,10.0,80.1,75.1,3.0,9,yes,yes
+STU0126,24,other,Lodz,Finance,full-time,None,62,4.4,54.0,48.7,2.8,9,yes,yes
+STU0009,20,other,Krakow,Data Analytics,part-time,Teams,48,3.9,64.2,38.9,3.2,3,no,no
+STU0128,25,male,Lodz,Informatics,part-time,Teams,38,1.8,29.4,43.5,3.6,8,yes,no
+STU0129,30,female,Wroclaw,Economics,part-time,Teams,91,16.6,100,89.9,4.0,22,yes,yes
+STU0130,22,female,Krakow,Economics,full-time,Google Classroom,62,0.8,49.7,34.7,3.6,0,yes,yes
+STU0131,19,female,Warsaw,Data Analytics,part-time,Moodle,46,4.2,42.7,53.2,2.7,5,yes,YES
+STU0132,29,female,Warsaw,Finance,full-time,Teams,55,12.9,99.9,81.5,4.4,16,yes,yes
+STU0133,25,other,Gdansk,Finance,full-time,Google Classroom,145,13.9,88.5,58.7,3.0,8,yes,yes
+STU0134,22,male,Poznan,Management,full-time,Moodle,93,4.0,72.0,30.6,2.4,7,yes,yes
+STU0135,31,female,Krakow,Management,full-time,Moodle,41,3.5,46.7,14.9,3.3,11,yes,yes
+STU0136,19,male,Warsaw,Data Analytics,part-time,None,81,12.5,94.9,77.5,3.1,11,yes,yes
+STU0137,26,female,Lodz,Economics,part-time,Moodle,60,6.3,36.0,47.4,4.8,4,yes,yes
+STU0138,25,female,Warsaw,Economics,full-time,Teams,74,-3,100,97.1,2.1,14,yes,yes
+STU0139,22,other,Gdansk,Management,part-time,Moodle,56,9.2,58.1,39.2,4.9,5,yes,yes
+STU0140,29,male,Warsaw,Management,part-time,Teams,70,42,60.6,58.0,2.1,5,yes,yes
+STU0141,21,other,Lodz,Economics,part-time,Google Classroom,93,10.6,72.1,69.8,4.3,75,yes,yes
+STU0142,23,female,Gdansk,Data Analytics,full-time,Moodle,82,17.6,132,100,2.1,15,yes,yes
+STU0143,30,male,Gdansk,Management,full-time,Google Classroom,56,9.2,68.1,46.7,2.8,7,yes,yes
+STU0144,19,female,Krakow,Economics,part-time,None,66,5.8,57.6,55.0,4.7,2,yes,yes
+STU0145,21,female,Warsaw,Informatics,part-time,Moodle,36,8.8,76.8,-10,3.7,4,no,yes
+STU0146,30,female,Poznan,Data Analytics,part-time,Google Classroom,54,16.6,82.9,87.2,4.9,4,yes,yes
+STU0147,20,other,Krakow,Informatics,full-time,None,77,3.4,54.7,17.3,6.5,9,yes,no
+STU0148,28,other,Gdansk,Informatics,full-time,Moodle,94,9.2,67.5,69.6,4.1,7,yes,yes
+STU0149,25,male,Lodz,Economics,full-time,None,49,14.2,90.2,65.0,4.4,-2,yes,yes
+STU0150,22,other,Krakow,Informatics,full-time,Teams,49,11.3,82.2,80.2,4.6,6,yes,yes
